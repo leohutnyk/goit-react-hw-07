@@ -6,7 +6,7 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #656566;
   text-decoration: inherit;
 }
 a:hover {
@@ -19,7 +19,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background: #f5e9d9;
+  background: #e0e0e0;
 }
 
 h1 {

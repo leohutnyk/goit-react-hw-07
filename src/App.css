@@ -11,19 +11,7 @@
   margin: 50px auto 0;
   padding: 0 40px 40px 40px;
   background: #fffdee;
-  border: 10px solid transparent;
-  border-image: 10
-    repeating-linear-gradient(
-      135deg,
-      #c42061,
-      #c42061 10px,
-      transparent 10px,
-      transparent 20px,
-      #fbcfdf 20px,
-      #fbcfdf 30px,
-      transparent 30px,
-      transparent 40px
-    );
+  border: 1px solid #888;
   font-family: "Playfair Display";
   color: #605756;
   box-shadow: 6px 6px 12px #b8b8b8, -6px -6px 12px #ffffff;
